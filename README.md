@@ -6,11 +6,11 @@ This is a video game I designed and coded. It is a generalzation of Tetris. In r
 The game has been accepted to Steam's Greenlight program.
 
 
-* Steam Greenlight page: https://bit.ly/2JCOaJp    
-* Playable Game (Zip file - 78MB, Windows and MacOS): https://bit.ly/2RbWGmT
-* Game play tutorial: https://bit.ly/2wSZUF5
-* Level editor tutorial: https://bit.ly/2XabbLG
+* Steam Greenlight page: https://steamcommunity.com/sharedfiles/filedetails/?id=281329454    
+* Playable Game (Zip file - 78MB, Windows and MacOS): https://drive.google.com/uc?id=0B0cGXE22k6b0aXVSQWFNci02SlE
+* Game play tutorial: https://www.youtube.com/watch?v=BSQdIh2M9os
+* Level editor tutorial: https://www.youtube.com/watch?v=hYVYw4V6k-Q
 
-This repository contains some of my source code for this game. 
+This repository contains some sample source code for this game. 
 
 
